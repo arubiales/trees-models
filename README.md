@@ -5,6 +5,7 @@ In this repository We are going to:
 2. Create differents models based in trees.
 3. See all the hyperparameters of this models
 4. Interprete the output of the models
+5. Plot our trees model, and save it
 
 ### Files of this repository
 * Data: where the dataset are placed
