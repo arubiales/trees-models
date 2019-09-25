@@ -12,4 +12,4 @@ In this repository We are going to:
 * model_tree: a simple tree model analysis.
 * random_forest: the Random Forest model analysis.
 * XGB: the Extremme Gradient Boosting model analysis.
-* Rest of the files are plots of our trees models
+* Rest of the files are plots of our trees models.
